@@ -1,0 +1,6 @@
+body{/* 整個頁面 */
+    text-align: center; /* 將整個頁面body置中 */
+}
+li{/* list */
+    text-align: left;   /* 將li置左 */
+}
